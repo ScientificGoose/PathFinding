@@ -1,4 +1,4 @@
-#Path Finding Algorithms
+# Path Finding Algorithms
 
 This repository will contain different path finding algorithms written in Java.
 
