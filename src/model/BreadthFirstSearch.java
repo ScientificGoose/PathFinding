@@ -1,2 +1,4 @@
-package model;public class BreadthFirstSearch {
+package model;
+
+public class BreadthFirstSearch {
 }
