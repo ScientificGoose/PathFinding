@@ -1,4 +1,4 @@
-package model;
+package model.Nodes;
 
 /**
  * The Node class helps x, y coordinates in a two-dimensional grid and a pointer to the parent node.

@@ -1,4 +1,4 @@
-package model;
+package model.Nodes;
 
 /**
  * Weighted node is an extension to Node and contains the gScore and fScore of the node.

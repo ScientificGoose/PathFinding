@@ -1,4 +1,6 @@
-package model;
+package model.Nodes;
+
+import model.Nodes.Node;
 
 import java.util.List;
 
